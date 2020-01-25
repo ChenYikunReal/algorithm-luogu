@@ -1,6 +1,7 @@
 package com.luogu.algorithm.p1008;
 
 public class Main {
+
     private static byte[] arr = new byte[9];
 
     public static void main(String[] args) {
@@ -23,4 +24,5 @@ public class Main {
         arr[a-1] = arr[b-1] = arr[c-1] = 1;
         return true;
     }
+
 }

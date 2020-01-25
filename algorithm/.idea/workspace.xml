@@ -37,13 +37,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luogu/algorithm/p1097" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luogu/algorithm/p1100" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -54,11 +55,11 @@
       <recent name="com.neu.algorithm.os_file.expr.expr1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1308" />
+      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1618" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1097" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1042" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1012" />
-      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1553" />
-      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1055" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -74,12 +75,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1051.Main" />
+    <configuration name="ArrayTypeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.ArrayTypeTest" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1051.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1308.Main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luogu.algorithm.p1308.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,37 +102,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1093.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1100.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1093.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1010.Main" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1010.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1031.Main" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1031.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1100.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +115,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1097.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1149.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1097.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1149.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringConnectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.StringConnectionTest" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luogu.algorithm.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,8 +145,8 @@
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.ArrayTypeTest" />
+        <item itemvalue="Application.StringConnectionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,10 @@
       <workItem from="1579522579902" duration="3165000" />
       <workItem from="1579574731381" duration="18442000" />
       <workItem from="1579771142304" duration="7857000" />
-      <workItem from="1579832403739" duration="15065000" />
+      <workItem from="1579832403739" duration="15735000" />
+      <workItem from="1579913714971" duration="8254000" />
+      <workItem from="1579944158722" duration="7503000" />
+      <workItem from="1579956100915" duration="3992000" />
     </task>
     <servers />
   </component>
