@@ -37,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luogu/algorithm/p1590" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luogu/algorithm/p1614" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,11 +56,11 @@
       <recent name="com.neu.algorithm.os_file.expr.expr1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1614" />
+      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1597" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1590" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1143" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1068" />
-      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1100" />
-      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1308" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,13 +75,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StrictfpTest">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1143.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1597.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1143.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1597.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1146.Main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luogu.algorithm.p1146.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +103,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1068.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1296.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1068.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1296.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1147.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1548.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1147.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1548.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickPower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1045.QuickPower" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1614.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1045.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StrictfpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.StrictfpTest" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.test.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1614.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StrictfpTest" />
-        <item itemvalue="Application.QuickPower" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,8 @@
       <workItem from="1580017744446" duration="3826000" />
       <workItem from="1580050303831" duration="4583000" />
       <workItem from="1580096763261" duration="2982000" />
-      <workItem from="1580116967947" duration="7166000" />
+      <workItem from="1580116967947" duration="7394000" />
+      <workItem from="1580184717747" duration="15005000" />
     </task>
     <servers />
   </component>
