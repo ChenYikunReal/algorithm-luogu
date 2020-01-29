@@ -1,7 +1,7 @@
 package com.luogu.algorithm.p1296;
 
 import java.util.Arrays;
-import java.util.Scanner;
+        import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
