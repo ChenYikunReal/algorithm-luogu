@@ -5,6 +5,10 @@ import static java.math.BigInteger.*;
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * 目前尚不能AC
+ * 需要真正设计算法而不是直接用BigInteger算出来
+ */
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
