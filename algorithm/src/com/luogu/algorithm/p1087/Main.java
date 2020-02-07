@@ -54,16 +54,10 @@ public class Main {
         int num = scanner.nextInt();
         String sequence = scanner.next();
         scanner.close();
-//        if (num == 0) {
-//            if ("0".equals(sequence)) {
-//                System.out.println("B");
-//            } else {
-//                System.out.println("I");
-//            }
-//            return;
-//        }
-        Node<String> node = tree.root = produceNode(sequence);
-        produceTree(sequence, node);
+        tree.root = produceNode(sequence);
+        produceTree(sequence, tree.root);
+        tree.postOrder(tree.root);
+        System.out.println(result);
     }
 
 }
