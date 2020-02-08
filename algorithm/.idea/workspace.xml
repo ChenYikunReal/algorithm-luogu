@@ -37,7 +37,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luogu/algorithm/p1603" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/luogu/algorithm/p1583" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,11 +57,11 @@
       <recent name="com.neu.algorithm.os_file.expr.expr1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1583" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1603" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1781" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p1177" />
       <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p2036" />
-      <recent name="D:\IDEA\algorithm\src\com\luogu\algorithm\p2525" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -76,26 +76,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.StringReverseTest">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1603.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1996.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1603.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1087.Main" />
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1087.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1996.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1781.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.p1449.Main" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luogu.algorithm.p1781.*" />
+          <option name="PATTERN" value="com.luogu.algorithm.p1449.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.PrintTest" />
+    <configuration name="MaxAndMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.MaxAndMin" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +116,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.ScannerTest" />
+    <configuration name="StringReverseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.StringReverseTest" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luogu.algorithm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UrlCrawBlog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luogu.algorithm.test.UrlCrawBlog" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.ScannerTest" />
-        <item itemvalue="Application.PrintTest" />
+        <item itemvalue="Application.StringReverseTest" />
+        <item itemvalue="Application.UrlCrawBlog" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MaxAndMin" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,8 @@
       <workItem from="1580784124246" duration="25793000" />
       <workItem from="1580868148538" duration="15966000" />
       <workItem from="1580954489544" duration="3917000" />
-      <workItem from="1581050587131" duration="16233000" />
+      <workItem from="1581050587131" duration="16398000" />
+      <workItem from="1581126459122" duration="15345000" />
     </task>
     <servers />
   </component>
