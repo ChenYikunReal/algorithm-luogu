@@ -1,9 +1,17 @@
 package com.luogu.algorithm.test;
 
-import java.util.Arrays;
 import java.util.Stack;
 
 public class StringReverseTest {
+
+    private static void swap(char a, char b) {
+        if (a != b) {
+            a ^= b;
+            b ^= a;
+            a ^= b;
+        }
+    }
+
     public static void main(String[] args) {
         String string = "ADFGJINJOOKC";
         int length = string.length();
@@ -43,5 +51,20 @@ public class StringReverseTest {
             reverse6.append(stack.pop());
         }
         System.out.println(reverse6);
+        //方法七：两侧向中间交换
+        char[] chars7 = chars0;
+        for (int i = 0; i < length/2; i++) {
+            char temp = chars7[i];
+            chars7[i] = chars7[length-i-1];
+            chars7[length-i-1] = temp;
+        }
+        System.out.println(new String(chars7));
+        //swap()
+        char[] chars8 = chars0;
+        for (int i = 0; i < length/2; i++) {
+            swap(chars8[i], chars8[length-i-1]);
+        }
+        System.out.println(new String(chars8));
     }
+
 }
