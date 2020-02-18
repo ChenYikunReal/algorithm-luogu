@@ -1,4 +1,4 @@
-package com.luogu.algorithm.test;
+package com.luogu.algorithm.test.reverse_linked_list;
 
 class Node<T> {
     T element;
