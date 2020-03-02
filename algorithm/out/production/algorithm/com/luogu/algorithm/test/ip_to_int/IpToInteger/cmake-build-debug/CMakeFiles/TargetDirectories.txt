@@ -1,3 +1,0 @@
-D:/Clion/projects/IpToInteger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Clion/projects/IpToInteger/cmake-build-debug/CMakeFiles/IpToInteger.dir
-D:/Clion/projects/IpToInteger/cmake-build-debug/CMakeFiles/edit_cache.dir

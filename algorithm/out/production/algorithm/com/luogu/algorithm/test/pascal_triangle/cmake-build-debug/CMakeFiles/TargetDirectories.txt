@@ -1,3 +1,0 @@
-D:/Clion/projects/PascalTriangle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Clion/projects/PascalTriangle/cmake-build-debug/CMakeFiles/PascalTriangle.dir
-D:/Clion/projects/PascalTriangle/cmake-build-debug/CMakeFiles/edit_cache.dir
