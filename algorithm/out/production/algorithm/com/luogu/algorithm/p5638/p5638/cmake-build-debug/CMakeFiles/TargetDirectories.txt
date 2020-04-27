@@ -1,0 +1,3 @@
+D:/Clion/projects/p5638/cmake-build-debug/CMakeFiles/p5638.dir
+D:/Clion/projects/p5638/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/projects/p5638/cmake-build-debug/CMakeFiles/rebuild_cache.dir
