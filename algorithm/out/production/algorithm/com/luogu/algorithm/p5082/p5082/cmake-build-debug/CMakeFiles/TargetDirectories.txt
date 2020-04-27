@@ -1,3 +1,0 @@
-D:/IDEA/algorithm/src/com/luogu/algorithm/p5082/p5082/cmake-build-debug/CMakeFiles/p5082.dir
-D:/IDEA/algorithm/src/com/luogu/algorithm/p5082/p5082/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/IDEA/algorithm/src/com/luogu/algorithm/p5082/p5082/cmake-build-debug/CMakeFiles/rebuild_cache.dir

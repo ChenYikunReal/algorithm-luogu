@@ -1,3 +1,0 @@
-D:/Clion/projects/p1177/cmake-build-debug/CMakeFiles/p1177.dir
-D:/Clion/projects/p1177/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Clion/projects/p1177/cmake-build-debug/CMakeFiles/rebuild_cache.dir

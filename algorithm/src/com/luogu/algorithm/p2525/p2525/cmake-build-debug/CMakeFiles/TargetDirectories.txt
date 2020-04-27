@@ -1,3 +1,0 @@
-D:/Clion/projects/p2525/cmake-build-debug/CMakeFiles/p2525.dir
-D:/Clion/projects/p2525/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Clion/projects/p2525/cmake-build-debug/CMakeFiles/rebuild_cache.dir
