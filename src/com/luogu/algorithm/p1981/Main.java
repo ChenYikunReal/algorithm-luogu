@@ -30,7 +30,7 @@ public class Main {
                         stack.push(stack.pop().add(stack.pop()));
                         stack.push(new BigInteger(temp_num.toString()));
                         temp_num = new StringBuilder();
-                    }
+                }
                     if (isMultiply) {
                         stack.push(stack.pop().multiply(new BigInteger(temp_num.toString())));
                         temp_num = new StringBuilder();

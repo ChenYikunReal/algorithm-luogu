@@ -15,6 +15,8 @@ public class Main {
 
     private static int n;
 
+    private static int[] result;
+
     private static int bfs(int tempNum, int x, int y) {
         tempNum++;
         visited_graph[x][y] = true;
@@ -43,6 +45,7 @@ public class Main {
         int m = Integer.parseInt(tempArr[1]);
         visited_graph = new boolean[n][n];
         zero_one_graph = new boolean[n][n];
+        result = new int[m];
         int[][] counter = new int[n][n];
         char[] tempCharArr;
         for (int i = 0; i < n; i++) {
