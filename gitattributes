@@ -1,0 +1,4 @@
+*.py linguist-language=java
+*.c linguist-language=java
+*.cpp linguist-language=java
+*.cmake linguist-language=java
