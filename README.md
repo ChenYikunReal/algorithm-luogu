@@ -1,6 +1,5 @@
-# 洛谷算法题集训
+# 洛谷算法题集训(Java语言描述)
 
-洛谷算法题集训营(Java模式)<br/>
 ![在这里插入图片描述](https://github.com/ChenYikunReal/algorithm_luogu/blob/master/images/luogu.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
 
 ## 洛谷算法题的结果

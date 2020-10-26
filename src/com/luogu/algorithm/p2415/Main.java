@@ -11,7 +11,7 @@ public class Main {
         for (String s : array) {
             sum += Long.parseLong(s);
         }
-        System.out.println(BigInteger.TWO.pow(array.length-1).multiply(new BigInteger(Long.toString(sum))));
+        System.out.println(new BigInteger("2").pow(array.length-1).multiply(new BigInteger(Long.toString(sum))));
         scanner.close();
     }
 }
