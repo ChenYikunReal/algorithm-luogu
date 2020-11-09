@@ -25,7 +25,7 @@
 - OLE：Output Limit Exceeded，输出超过限制。
 - UKE：Unknown Error，出现未知错误。
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/algorithm_luogu/blob/master/images/result.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![](/images/result.jpg)
 
 ## 题解锦集
 - [红题](https://blog.csdn.net/weixin_43896318/article/details/104156713)
