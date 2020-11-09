@@ -1,7 +1,4 @@
 .DS_Store
-out/
-
-# Editor directories and files
 .idea
 .vscode
-out
+out/
