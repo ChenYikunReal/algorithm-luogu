@@ -1,5 +1,5 @@
 .DS_Store
-out/production/algorithm
+out/
 
 # Editor directories and files
 .idea
