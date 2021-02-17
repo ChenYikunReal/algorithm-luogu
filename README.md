@@ -1,9 +1,9 @@
 # 洛谷算法题集训(Java语言描述)
 
-![在这里插入图片描述](https://github.com/ChenYikunReal/algorithm_luogu/blob/master/images/luogu.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](images/luogu.jpg)
 
 ## 洛谷算法题的结果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019122312234712.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg5NjMxOA==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2019122312234712.PNG)
 <br/>下面的解释纯属娱乐：
 - AC=Answer Coarse=粗劣的答案
 - WA=Wonderful Answer=好答案
