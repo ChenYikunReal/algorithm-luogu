@@ -1,10 +1,10 @@
-# 洛谷算法题集训(Java语言描述)
+# 洛谷算法题集训(Java/C++语言描述)
 
-![在这里插入图片描述](images/luogu.jpg)
+![](images/luogu.jpg)
 
 ## 洛谷算法题的结果
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019122312234712.PNG)
-<br/>下面的解释纯属娱乐：
+![](https://img-blog.csdnimg.cn/2019122312234712.PNG) <br/>
+下面的解释纯属娱乐：
 - AC=Answer Coarse=粗劣的答案
 - WA=Wonderful Answer=好答案
 - TLE=Time Limit Enough=时间充裕
@@ -35,12 +35,15 @@
 - [循环结构](https://blog.csdn.net/weixin_43896318/article/details/105885191)
 - [字符串](https://blog.csdn.net/weixin_43896318/article/details/105885512)
 - [数组](https://blog.csdn.net/weixin_43896318/article/details/105885470)
+- [函数与结构体](https://blankspace.blog.csdn.net/article/details/115422133)
 - [排序](https://blog.csdn.net/weixin_43896318/article/details/105883185)
+- [暴力枚举](https://blankspace.blog.csdn.net/article/details/115422150)
 
 
-## 任务日志(From 2020.7.28)
+## 任务日志(From 2020.04.03)
 - [x] `[2020-07-28]` 咕咕咕 久违的洛谷啊 我回来了！
 - [x] `[2020-10-26]` 咕咕咕 为了蓝桥杯争国二 愿我谷保佑我！
+- [x] `[2021-04-03]` 咕咕咕 为了蓝桥杯省赛 我又来了 最近还在改C++ 还没完全熟悉STL 仍然是橙题和黄题 呜呜呜！啥时候能做到绿题蓝题啊！
 
 ## Git相关问题的处理
 我的Git与Github严重不同步，出了某些问题，比较难处理。最终决定先清再补：
@@ -50,13 +53,14 @@
 4. 将此时的新.git文件夹换掉原先本地项目中的.git文件夹
 5. 本地原项目处正常提交修改
 
-遗憾的是当时没有考虑到<code>.gitignore</code>的问题，<code>.idea</code>和<code>out</code>目录还在，此时补<code>.gitignore</code>已然无效，必须如下处理：
-```text
+遗憾的是当时没有考虑到`.gitignore`的问题，`.idea`和`out`目录还在，此时补`.gitignore`已然无效，必须如下处理：
+```shell
 git rm -r --cached .
 git add .
 git commit -m "注释"
 git push -u origin master
 ```
+
 注意：
-不要误解了<code>.gitignore</code>文件的用途，该文件只能作用于<code>Untracked Files</code>，也就是那些从来没有被Git记录过的文件(自添加以后，从未add及commit过的文件)。<br/>
-如果文件曾经被Git记录过，那么.gitignore就对它们完全无效。
+不要误解了`.gitignore`文件的用途，该文件只能作用于`Untracked Files`，也就是那些从来没有被Git记录过的文件(自添加以后，从未add及commit过的文件)。<br/>
+如果文件曾经被Git记录过，那么`.gitignore`就对它们完全无效。
