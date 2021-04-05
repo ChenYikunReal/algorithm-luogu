@@ -64,3 +64,18 @@ git push -u origin master
 注意：
 不要误解了`.gitignore`文件的用途，该文件只能作用于`Untracked Files`，也就是那些从来没有被Git记录过的文件(自添加以后，从未add及commit过的文件)。<br/>
 如果文件曾经被Git记录过，那么`.gitignore`就对它们完全无效。
+
+## 开启文件读写的方法
+C++可以将文件放在路径下后，使用如下语句读文件：
+```cpp
+int n;
+ifstream infile;
+infile.open("P1873_2.in");
+infile >> n;
+```
+
+## 优化cin至scanf()性能
+```cpp
+ios::sync_with_stdio(false);
+```
+慎用！
